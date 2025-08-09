@@ -65,13 +65,3 @@ The mixing board isn’t a checklist to max out. It’s a **tool for curiosity**
 * Can I add a little melody and still feel like me?
 
 That’s voice training. Gentle shifts. Playful exploration.
-
----
-
-## 🗂️ Suggested Placement in the Wiki
-
-This page belongs in a dedicated section after Phase 3 titled:
-
-### 📦 Voice Toolbox & Deeper Concepts
-
-It’s a living resource you can return to as your awareness deepens — especially as you integrate feminization techniques or refine your natural voice.
