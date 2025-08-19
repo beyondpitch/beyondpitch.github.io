@@ -80,7 +80,6 @@ This 20–30 second reset wakes up forward resonance, keeps tension low, and rem
 * Say a short phrase (“I like my voice”) in a bright, smiling tone.
 * Then repeat in a dark, heavy, back-of-throat tone.
 * Switch back and forth to develop conscious control.
-Perfect — here’s a **closing section** you can place at the **very end of the Brightness page** (after the “Exercises for Brightness” section).
 
 ---
 
@@ -117,7 +116,7 @@ With practice, you’ll be able to slide brightness up or down without losing co
 
 ## Putting It All Together
 
-Brightness isn’t about forcing a sharp or “girly” sound — it’s about shaping resonance so your voice feels clearer, lighter, and more expressive. The key is to think of brightness as a **slider on your voice mixing board**, not a switch you flip on and leave there. Some moments call for more shimmer; others feel better with a softer, rounder tone.
+Brightness isn’t about forcing a sharp or “girly” sound — it’s about shaping resonance so your voice feels clearer, lighter, and more expressive. The key is to think of brightness as a [**slider on your voice mixing board**](/vocal-mixing-board/sliders-and-exercises/#-vocal-tract-length-brightnessdarkness), not a switch you flip on and leave there. Some moments call for more shimmer; others feel better with a softer, rounder tone.
 
 You can build brightness by first understanding it conceptually (resonance tilt and forward focus), then tuning in to the sensations that tell you you’re in the right place (internal cues). From there, it’s about avoiding the common traps — pushing volume, over-nasalizing, or locking the jaw — and instead letting airflow and resonance do the work.
 
